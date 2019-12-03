@@ -2,7 +2,6 @@ import requests
 import logging
 import json
 import os
-from pprint import pprint
 
 logging.getLogger().setLevel(logging.INFO)
 
